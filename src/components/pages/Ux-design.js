@@ -13,7 +13,7 @@ function Uxdesign() {
   return (
     <div className='uxdesign'>
       <div className='rectangle'>
-        <h1>Car Insurance</h1>
+        <h1>CAR INSURANCE</h1>
         <p className='subtext'>Helping protect you from bumps in the road.</p>
         <form>
           <label for='reg-no' className='label'>Car registration number</label><br/>
